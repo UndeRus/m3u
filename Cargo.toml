@@ -10,4 +10,4 @@ repository = "https://github.com/mitchmindtree/m3u.git"
 homepage = "https://github.com/mitchmindtree/m3u"
 
 [dependencies]
-url = "1.2.4"
+url = "2.5.4"
